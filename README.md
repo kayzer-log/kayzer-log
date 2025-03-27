@@ -1,35 +1,15 @@
-## Hi there 👋
-
-<!--
-**kayzer-log/kayzer-log** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Kayzer</h1>
 <h3 align="center">A passionate frontend developer from Turkey / U.S.A</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayzer-log&label=Profile%20views&color=000000&style=flat-square" alt="kayzer-log" /> </p>
 
-- 🔭 I’m currently working on **Gameloop Development Team**
+- 🔭 I’m currently working on **Discord Bot Developer**
 
 - 🌱 I’m currently learning **JavaScript, Python**
 
-- 👯 I’m looking to collaborate on **Discord Bot Developer**
+- 👯 I’m looking to collaborate on **Kayzerimsi**
 
 - 🤝 I’m looking for help with **Kayzerimsi**
-
-- 👨‍💻 All of my projects are available at [Has Not Avaible](Has Not Avaible)
-
-- 📝 I regularly write articles on [Has Not Avaible](Has Not Avaible)
 
 - 📫 How to reach me **kayserimafia@hotmail.com**
 
